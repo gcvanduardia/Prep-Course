@@ -30,7 +30,7 @@ En este [link](https://github.com/soyHenry/Prep-Course/tree/main/) vas a encontr
 npm install
 ```
 
-Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla vez), una vez terminado y cada vez que quieras ver cuantos tests pasaste ejecutá :
+Esto instalará todas las dependencias necesarias (lo tenés que hacer una sóla vez), una vez terminado y cada vez que quieras ver cuantos tests pasaste ejecutá:
 
 ```bash
 npm test {nombre del homework}.test.js
